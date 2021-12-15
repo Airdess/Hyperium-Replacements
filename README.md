@@ -28,7 +28,7 @@
 - Disable Shadowed Text - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Limbo FPS Limiter - Sk1er Hytilities ([Beta](https://sk1er.club/beta) - Currently only available in Sk1er Discord)
 - Fast World Switching - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- Smart Sounds - None
+- Smart Sounds - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Void Flicker Fix - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Windowed Fullscreen - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
