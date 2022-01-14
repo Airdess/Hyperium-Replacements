@@ -24,7 +24,7 @@
 - Disable Enchantment Glint - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Disable End Portals - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Disable Item Frames - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- Disable Lightning Bolts - None
+- Disable Lightning Bolts - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Disable Shadowed Text - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Limbo FPS Limiter - Sk1er Hytilities ([Beta](https://sk1er.club/beta) - Currently only available in Sk1er Discord)
 - Fast World Switching - [Sk1er Patcher](https://sk1er.club/mods/patcher)
@@ -68,7 +68,7 @@
 - Show armor protection in inventory - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Show armor projectile protection in inventory - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Hide names in F1 - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- Disable Titles - None
+- Disable Titles - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Disable Portal Sounds - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Disable Achievements - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Rear Cam - [ScottehBoeh BehindYou!](https://hypixel.net/threads/behindyou-simple-useful-mod-for-looking-back.1930824/)
